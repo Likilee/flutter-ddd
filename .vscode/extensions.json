@@ -3,6 +3,7 @@
     "vivaxy.vscode-conventional-commits",
     "dart-code.flutter",
     "alexisvt.flutter-snippets",
-    "marcelovelasquez.flutter-tree"
+    "marcelovelasquez.flutter-tree",
+    "jeroen-meijer.pubspec-assist"
   ]
 }
