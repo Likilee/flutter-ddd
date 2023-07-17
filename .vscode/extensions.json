@@ -4,6 +4,8 @@
     "dart-code.flutter",
     "alexisvt.flutter-snippets",
     "marcelovelasquez.flutter-tree",
-    "jeroen-meijer.pubspec-assist"
+    "jeroen-meijer.pubspec-assist",
+    "dart-code.dart-code",
+    "hzgood.dart-data-class-generator",
   ]
 }
